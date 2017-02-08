@@ -1,0 +1,22 @@
+const Button = props => ({
+  type: 'button',
+  props: {
+    className: props.className ? props.className : 'red',
+    children: props.children
+  }
+})
+
+ReactDOM.render(
+  {
+    type: div,
+    props: {
+      children: {
+        type: Button,
+        props: {
+          className: undefined,
+          children: 'CLICK ME'
+        }
+      }
+    }
+  }
+)

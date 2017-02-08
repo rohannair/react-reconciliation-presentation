@@ -1,0 +1,9 @@
+class Heading extends React.Component {
+  render() {
+    return <div>Hello world!</div>
+  }
+}
+
+// or
+
+const Heading = () => <div><strong>Hello world!</strong></div>

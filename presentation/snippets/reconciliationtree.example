@@ -1,0 +1,7 @@
+...
+  type: Button,
+  props: {
+    className: 'large primary',
+    children: 'CLICK ME'
+  }
+...

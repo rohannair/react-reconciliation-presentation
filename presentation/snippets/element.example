@@ -1,0 +1,7 @@
+{
+  type: 'div',
+  props: {
+    className: 'heading',
+    children: 'Hello world!'
+  }
+}

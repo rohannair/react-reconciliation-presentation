@@ -1,0 +1,12 @@
+{
+  type: 'div',
+  props: {
+    className: 'heading',
+    children: {
+      type: 'strong',
+      props: {
+        children: 'Hello world!'
+      }
+    }
+  }
+}

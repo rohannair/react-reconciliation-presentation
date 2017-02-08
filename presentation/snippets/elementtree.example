@@ -1,0 +1,27 @@
+{
+  type: 'div',
+  props: {
+    className: 'container',
+    children: [{
+      type: 'Heading',
+      props: {
+        children: 'Rohan\'s Presentation'
+      }
+    },{
+      type: 'Body',
+      props: {
+        children: [{
+          type: 'h1'
+          props: {
+            children: 'Welcome to it!'
+          }
+        },{
+          type: 'p'
+          props: {
+            children: 'No refunds whatsoever!'
+          }
+        }]
+      }
+    }]
+  }
+}

@@ -1,0 +1,15 @@
+const Button = props => ({
+  type: 'button',
+  props: {
+    className: props.className,
+    children: props.children
+  }
+})
+
+// or
+
+const Button = props => (
+  <button className={ props.className }>
+    { props.children }
+  </button>
+)

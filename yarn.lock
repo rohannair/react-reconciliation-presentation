@@ -2071,6 +2071,10 @@ eslint-config-formidable@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/eslint-config-formidable/-/eslint-config-formidable-2.0.1.tgz#995b8f4a15d80109fbfbe409e537686dfaf41fc2"
 
+eslint-config-minimal@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-minimal/-/eslint-config-minimal-0.4.2.tgz#4cdfe89035b09632d655146910a5156b43d29da4"
+
 eslint-import-resolver-node@^0.2.0:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-node/-/eslint-import-resolver-node-0.2.3.tgz#5add8106e8c928db2cba232bcd9efa846e3da16c"
