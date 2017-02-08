@@ -27,7 +27,6 @@ import createTheme from 'spectacle/lib/themes/default'
 require('normalize.css')
 require('spectacle/lib/themes/default/index.css')
 
-
 const images = {
   twitter: require('../assets/twitter.svg'),
   linkedin: require('../assets/linkedin.svg'),
@@ -512,6 +511,9 @@ export default () => (
         </ListItem>
         <ListItem>
           <a href="https://gist.github.com/duivvv/2ba00d413b8ff7bc1fa5a2e51c61ba43">What is React Fiber? And how can I try it out today?</a>
+        </ListItem>
+        <ListItem>
+          <a href="http://isfiberreadyyet.com/">Is Fiber Ready?</a>
         </ListItem>
       </List>
     </Slide>
